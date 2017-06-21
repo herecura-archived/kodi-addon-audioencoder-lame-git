@@ -3,8 +3,8 @@
 
 _gitname=kodi-addon-audioencoder-lame
 pkgname="$_gitname-git"
-_commit=d75255b
-pkgver=20170522.d75255b
+_commit=6a250f9
+pkgver=20170620.6a250f9
 pkgrel=1
 pkgdesc="LAME Audio Encoder add-on for Kodi"
 arch=('i686' 'x86_64')
